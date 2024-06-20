@@ -34,7 +34,7 @@ O objetivo deste script é obter a cotação atual do dólar em reais e a cotaç
 
 1. Certifique-se de ter Python instalado no seu sistema.
 2. Instale a biblioteca `requests` caso não tenha instalado:
-3. Execute o script `data_mining.py`.
+3. Execute o script `romario.ferreira.py`.
 4. O resultado será exibido no console, mostrando a conversão de 1 Bitcoin em reais e dólares, além da cotação atual do dólar em reais.
 
 ## Saída do Terminal 
