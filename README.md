@@ -37,4 +37,7 @@ O objetivo deste script é obter a cotação atual do dólar em reais e a cotaç
 3. Execute o script `data_mining.py`.
 4. O resultado será exibido no console, mostrando a conversão de 1 Bitcoin em reais e dólares, além da cotação atual do dólar em reais.
 
+## Saída do Terminal 
+Lembrandro que se ouvi alguma atualização no front do site pode acabar quebrando o CRAWLING.
+![image](https://github.com/rjunio454/Data-Mining/assets/64554791/72e37399-fc1f-4852-8b1b-7f88debddad0)
 
